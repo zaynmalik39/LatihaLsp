@@ -1,0 +1,5 @@
+input:text.form-control
+
+htmlspecialchars = inputan kita tidak bisa dipakai html
+NULL = Buat otomatis database ke isi
+
